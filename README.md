@@ -1,2 +1,2 @@
 # first
-primeiro repo
+Currículo no GitHub.
